@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/dom4j-2.1.4.jar",
+    "lib/Atxy2k.jar"
+  ]
+}
